@@ -1,0 +1,34 @@
+//Scavogl Base
+- Fixed warmup mode in ready up! Survivors can move around and do as they please
+while immune to damage, before the round restarts at the beginning of the match.
+- Added a temporary fix to l4d2_temphealthmedkits so that survivors do not get set Black&White in 1v1.
+
+Individual config changes, listed by config name:
+
+//scavogl1v1
+
+//scavogl2v2
+- Hunting Rifle Limit 0
+
+//scavogl2v2-hr
+- Added
+- Hunting Rifle Limit 1
+
+//scavogl3v3
+- Hunting Rifle Limit 0
+
+//scavogl3v3-hr
+- Added
+- Hunting Rifle Limit 1
+
+//scavogl
+
+//scavogl-hr
+- Added
+- Hunting Rifle Limit 1
+
+//scavoglhunters
+
+//scavoglhunters2v2
+
+//scavoglhunters3v3
